@@ -498,7 +498,7 @@ C’est une vraie chaîne cloud native.
 
 ---
 
-# 19. Travaux demandés aux étudiants
+# 19. Travaux demandés
 
 ## Partie 1
 
